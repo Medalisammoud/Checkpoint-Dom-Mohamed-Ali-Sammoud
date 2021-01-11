@@ -1,0 +1,81 @@
+
+/* the css header */
+.shopp
+{
+    margin: 0 250px;
+    height: 65px;
+    padding-left: 40px;
+    box-shadow: 0 5px 10px 0 #513f72;
+    color: #7c7979;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+.shopp h1,span{
+    padding-top: 10px;
+    font-size: 30px;
+}
+/* the css img */
+img
+{
+    width: 200px;
+}
+/* the css main */
+.content{
+    margin:0 250px;
+    padding-top:10px ;
+    position: fixed;
+    box-shadow: 0 5px 10px 0 #d3cfc9;
+}
+/* the css section */
+.section{
+    margin: 30px 0;
+    display: flex;
+}
+/* the css delete */
+.delete {
+    margin-right: 114px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
+.delete img{
+width: 35px;
+height: 35px;
+}
+.delete i{
+  font-size: 35px;
+  padding-left: 5px; 
+}
+.fa-trash-alt{
+    color: rgb(253, 115, 115);
+}
+/* css class img */
+.img{
+    margin-right: 110px;
+}
+.img :hover{
+    box-shadow: 0 5px 10px 0 #d3cfc9;
+    border-radius: 20px;
+}
+.prix{
+    padding-left: 110px;
+    padding-right: 50px;
+}
+/* css button */
+.bttcont{
+    display: flex;
+    align-items: center;
+}
+.bttcont p{
+    margin-right: 100px;
+    padding-right: 30px;
+    
+}
+.bttcont span{
+    padding:0 5px;
+    font-size: 20px;
+}
+
+
+
